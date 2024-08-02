@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Joshua Dijamco,
 
 A Full-Stack Engineer working primarily with React and Node.JS. I enjoy building components, creating automations, troubleshooting issues, and making things work.
-- ⚡ **Fun fact:** 
+- ⚡ **Fun fact:** I love learning new languages and currently learning German, Korean, and Italian (in order of proficiency)
 - 🔭 I'm currently working on an internal developer portal in Verizon
 - 💡 I'm interested in all things development
 - 💬 Talk to me about robotics, consumer technology
